@@ -10,11 +10,10 @@ WriteMakefile
                    'DBI' => 0,
                    'Moo' => 0,
                    'Scalar::Util' => 0,
+                   'Term::ANSIColor' => 0,
                    'Test::Class' => 0,
                    'Test::More' => 0,
                    'Test::Warn' => 0,
-                   'constant::abs' => 0,
-                   'constant::def' => 0,
                    'lib::abs' => 0
                  },
   'INSTALLDIRS' => 'site',
